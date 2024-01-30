@@ -1,0 +1,215 @@
+﻿for Modding translation:
+
+[[BetterLethality Mod]]
+
+Installed Mods=Mods Instalados
+Mod List:=Lista de mods:
+Check the logs for more detailed results.\n<size\=13>(Note that if someone doesnt show up on the list, they may not have LC_API installed)</size>=Consulta los LOGS para obtener resultados mas detallados.\n<size\=12>(Si alguien no aparece en la lista, es posible que no haya instalado el mod LC_API)</size>
+Asking all other players for installed mods..=Preguntando a todos los demás jugadores por los mods instalados...
+
+[[MoreCompany]]
+
+Cosmetics Enabled:=Cosmeticos Activados: 
+Crew Size:=Jugadores:
+
+[[Mimics]]
+
+Feed : [E]=S̶alir : [E]
+
+[[MoreEmotes]]
+
+Point\n[2]=Señalar\n[2]
+Dance\n[1]=Bailar\n[1]
+Salute\n[8]=Saludo\n[8]
+Twerk\n[7]=Twerk\n[7]
+The Griddy\n[6]=The Griddy\n[6]
+Shy\n[5]=Timido\n[5]
+Clap\n[4]=Aplaudir\n[4]
+Middle Finger\n[3]=Dedo medio\n[3]
+
+> More Emotes=> Más Gestos
+More Emotes=Más Gestos
+Remap=Remapear
+Emote Wheel=Rueda de Gestos
+Quick Emotes=Gestos rápidos
+Settings=Configuración
+Inventory Check=Checkeo de Inventario
+Prevents some emotes \nfrom performing while\nholding items/scrap=Evita que algunos gestos \nse realicen mientras se\nsostienen objetos o chatarra
+
+[[TooManyEmotes]]
+
+Cheer=Celebrar
+Denied=Negar
+Face palm=Palmada en la cara
+Flex=Flexionar
+Idk=NOSE
+Wave=SALUDAR
+Come here=Ven aqui
+Shake fist=Sacudir el punio
+Excited=Emocionado
+Bathroom calls=Ganas de ir al banio
+Be seeing you=Te estare observando
+Big wave=Gran saludo
+Blow kiss=Enviar un beso
+Bring it on=Atrevete a venir
+Bunny hop=Saltitos de conejo
+Confused=Confundido
+Distracted=Distraido
+Dust off shoulders=Quitarse el polvo de los hombros
+Finger wag=Advertir con el dedo
+Gentlemans dab=Dab caballeroso
+Heel click=Clic de talon
+I heart you=Yo, Te quiero, A ti
+Laugh it up=Morirte de risa
+Mime time=Mimo time!
+Over here=Por aqui
+Praise the sun=Alaba al sol
+Yay=Yay!
+Jumping jacks=Tijeras
+Shrug=Encogerse de hombros
+Stretch=Estirarse
+Surprised=Sorprendido
+Backflip=Salto mortal hacia atras
+Chicken dance=Baile del pollo
+Gangnam=Gangnam Style
+Headspin=Giro de cabeza
+Moonwalk=MJ Paso lunar
+Silly dance=Baile tonto
+Soul combo=los pasos prohibidos
+Swing dance=Baile swing
+Twist dancing=Baile twist
+Wave dance=Baile de la ola
+Windmill=Molino de viento
+Ymca=YMCA
+Best mates=Mejores amigos
+Boneless=Sin hueso
+Boogie down=Baile funky
+Breezy=Breezy
+Capoeira=Capoeira
+Cart wheelin=la Rueda
+Cat flip=Salto del gato
+Dance moves=Movimientos de baile
+Disco fever=Fiebre disco
+Drop the bass=Drop el bajo
+Eagle=Aguila
+Fancy feet=Pies elegantes
+Flipping incredible=Salto increible
+Flippin sexy=Salto sexy
+Flux=Flujo
+Free flow=Flujo libre
+Freestylin= Freestylin
+Fresh=Fresco
+Groove jam=Jam de ritmo
+Ground pound=Golpe al suelo
+Hand signals=Seniales con la mano
+Infinite dab=Dab infinito
+Jubilation=Jubilacion
+My idol=Mi idolo
+Orange justice=Justicia naranja
+Rambunctious=Alborotador
+Reanimated=Reanimado
+Robot=Robot
+Sprinkler=Aspersor
+Squat dance=Baile ruso
+Star power=Poder estelar
+Take the l=Toma la L
+True heart=Corazon verdadero
+Whirlwind=Torbellino
+Widows pirouette=Pirueta de la viuda
+Wiggle=Contoneo
+Work it out=Resuelvelo
+You are awesome=Eres increible
+Zany=Estrafalario
+
+[[CompatibilityChecker]]
+
+Code=Codigo
+Search or Enter a room code...=Busca o Ingresa un código...
+> Lobby Code=> Codigo de la sala
+(Copied to clipboard!)=(Copiado al portapapeles!)
+
+//ChomusukeModPack strings:
+
+Loading mods 1/32=Cargando mods 1/32
+Loading mods 2/32=Cargando mods 2/32
+Loading mods 3/32=Cargando mods 3/32
+Loading mods 4/32=Cargando mods 4/32
+Loading mods 5/32=Cargando mods 5/32
+Loading mods 6/32=Cargando mods 6/32
+Loading mods 7/32=Cargando mods 7/32
+Loading mods 8/32=Cargando mods 8/32
+Loading mods 9/32=Cargando mods 9/32
+Loading mods 10/32=Cargando mods 10/32
+Loading mods 11/32=Cargando mods 11/32
+Loading mods 12/32=Cargando mods 12/32
+Loading mods 13/32=Cargando mods 13/32
+Loading mods 14/32=Cargando mods 14/32
+Loading mods 15/32=Cargando mods 15/32
+Loading mods 16/32=Cargando mods 16/32
+Loading mods 17/32=Cargando mods 17/32
+Loading mods 18/32=Cargando mods 18/32
+Loading mods 19/32=Cargando mods 19/32
+Loading mods 20/32=Cargando mods 20/32
+Loading mods 21/32=Cargando mods 21/32
+Loading mods 22/32=Cargando mods 22/32
+Loading mods 23/32=Cargando mods 23/32
+Loading mods 24/32=Cargando mods 24/32
+Loading mods 25/32=Cargando mods 25/32
+Loading mods 26/32=Cargando mods 26/32
+Loading mods 27/32=Cargando mods 27/32
+Loading mods 28/32=Cargando mods 28/32
+Loading mods 29/32=Cargando mods 29/32
+Loading mods 30/32=Cargando mods 30/32
+Loading mods 31/32=Cargando mods 31/32
+Loading mods 32/32=Cargando mods 32/32
+
+[[LethalExpansion]]
+
+> Mod Settings=> Config. de Mods
+Mod Settings :=Config. de Mods :
+Compatibility:=COMPATIBILIDAD:
+Dungeons:=MAZMORRAS:
+Expeditions:=EXPEDICIONES:
+Lobby:=SALA:
+Modules:=MODULOS:
+Moons:=LUNAS:
+Time:=TIEMPO:
+Default=Por Defecto
+All Default=Todo por Defecto
+Apply=Aplicar
+
+//TextStrings
+Leave Brutal Company Plus control the Quota settings.=Deja que Brutal Company Plus controle la configuración de la cuota.
+Let Coomfy Dungeons control the Dungeon size & scrap settings.=Deja que Coomfy Dungeons controle el tamaño de la mazmorra y la configuración de chatarra.
+Leave Lethal Adjustments control the Dungeon settings.=Deja que Lethal Adjustments controle la configuración de la mazmorra.
+Show an output of every settings in the Console. (The Console must listen Info messages)=Muestra una salida de todas las configuraciones en la consola. (La consola debe escuchar mensajes de información)
+Change the size of the Dungeons. (Can crash when under 1.0)=Cambia el tamaño de la mazmorra. (Puede fallar cuando está por debajo de 1.0).
+Set the minimal weight to prevent Landmine's explosion (0.15 = 16lb, Player = 2.0)=Establece el peso mínimo para evitar la explosión de las minas terrestres (0.15 = 16 lb, Jugador = 2.0).
+Prevent Landmines to explode by dropping items on them=Evita que las minas terrestres exploten al soltar objetos sobre ellas.
+Change the amount of Scraps in dungeons.=Cambia la cantidad de chatarra en las mazmorras.
+Change the value of Scraps.=Cambia el valor de la chatarra.
+Automatically increase the Deadline depending of the required quota.=Aumenta automáticamente el plazo según la cuota requerida.
+Increase the quota deadline of one day each time the quota exceeds this value.=Aumenta el plazo de cuota un día cada vez que la cuota excede este valor.
+Change amount of days for the Quota.=Cambia la cantidad de días para la cuota.
+Change the Items cap can be kept in the ship.=Cambia la cantidad máxima de artículos que se pueden guardar en la nave.
+Prevent the Scraps Wipe when all players die.=Evita la eliminación de chatarra cuando todos los jugadores mueren.
+Change the Quota Base Increase.=Cambia el aumento base de la cuota.
+Change the Quota Increase Steepness. (Highter = less steep exponential increase)=Cambia la pendiente de aumento de la cuota. (Mayor = aumento exponencial menos pronunciado).
+Change amount of starting Credit.=Cambia la cantidad de dinero inicial.
+Change the starting Quota.=Cambia la cuota inicial.
+Display a 24h clock instead of 12h.=Muestra un reloj de 24 horas en lugar de 12 horas.
+Display clock while inside of the Ship.=Muestra el reloj mientras están dentro de la nave.
+Convert Pounds into Kilograms (16 lb = 7 kg) (Only effective if WeightUnit = 1)=Convierte libras a kilogramos (16 lb = 7 kg) (solo efectivo si WeightUnit = 1).
+Display the route price of Moons in the Terminal's Moon Catalogue.=Muestra el precio de la ruta de las lunas en el Catálogo de Lunas de la Terminal.
+Display the rank of Moons in the Terminal's Moon Catalogue.=Muestra la clasificación de las lunas en el Catálogo de Lunas de la Terminal.
+Display the current weather of Moons in the Terminal's Moon Catalogue.=Muestra el clima actual de las lunas en el Catálogo de Lunas de la Terminal.
+Change the carried Weight unit : 0 = Pounds (lb), 1 = Kilograms (kg) and 2 = Both=Cambia la unidad de peso transportada: 0 = Libras (lb), 1 = Kilogramos (kg) y 2 = Ambos.
+Kick the players without Lethal Expansion installer. (Will be kicked anyway if LoadModules is True)=Expulsa a los jugadores sin el instalador de Lethal Expansion. (Serán expulsados de todos modos si LoadModules es True).
+Load SDK Modules that add new content to the game. Disable it to play with Vanilla players. (RESTART REQUIRED)=Carga módulos SDK que agregan nuevo contenido al juego. Desactívelo para jugar con jugadores de Vanilla. (REINICIO REQUERIDO).
+Change the Cost of the Moon Routes.=Cambia el Costo de la ruta en el Catálogo de Lunas de la Terminal.
+Change the global time speed=Cambia la velocidad de tiempo global.
+Change amount of seconds in one hour=Cambia la cantidad de segundos en una hora.
+Max lenght of an Expedition in hours. (Begin at 6 AM | 18 = Midnight)=Longitud máxima de una expedición en horas. (Comienza a las 6 AM | 18 = Medianoche).
+
+[[AnotherMod]]
+

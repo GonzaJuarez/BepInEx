@@ -1,0 +1,44 @@
+﻿Drop Walkie-talkie : [G]=Soltar Walkie-talkie : [G]
+Power button : [Q]=Encender/Apagar : [Q]
+Send voice : [LMB]=Hablar por radio : [LMB]
+
+Drop clipboard : [G]=Soltar Manual:  [G]
+Inspect: [Z]=Inspeccionar : [Z]
+Turn page : [Q/E]=Cambiar página : [Q/E]
+
+Scan for threat: [LMB]=Escanear amenazas : [LMB]
+Drop Zap gun : [G]=Dejar pistola de descarga : [G]
+
+Toggle light : [LMB]=Encender/Apagar luz : [LMB]
+Drop Flashlight : [G]=Soltar linterna: [G]
+Drop Pro-flashlight : [G]=Soltar linterna profesional: [G]
+
+Drop Stun grenade : [G]=Soltar granada aturdidora: [G]
+Use grenade : [LMB]=Usar granada: [LMB]
+Throw grenade: [LMB]=Arrojar granada: [LMB]
+
+Drop Lockpicker : [G]=Soltar ganzúa : [G]
+Place on door : [LMB]=Colocar en la puerta : [LMB]
+
+Drop Boombox : [G]=Dejar RadioBombox : [G]
+Toggle music : [LMB]=Alternar música : [LMB]
+
+Use jetpack : [LMB]=Usar jetpack : [LMB]
+Drop Jetpack : [G]=Soltar jetpack : [G]
+
+Swing shovel : [LMB]=Golpear con pala : [LMB]
+Drop Shovel : [G]=Soltar pala : [G]
+
+Take TZP : [LMB]=Tomar TZP : [LMB]
+Drop TZP-Inhalant : [G]=Soltar TZP : [G]
+
+Turn on booster : [LMB]=Encender potenciador : [LMB]
+Drop Radar-booster : [G]=Soltar potenciador : [G]
+
+Pop up ladder : [LMB]=Desplegar escalera : [LMB]
+Drop Extension ladder : [G]=Soltar escalera extensible : [G]
+
+Spray paint=Pintura en aerosol
+Drop Spray paint : [G]=Soltar Pintura en aerosol : [G]
+Spray : [LMB]=Rociar aerosol : [LMB]
+Shake can : [Q]=Agitar aerosol : [Q]

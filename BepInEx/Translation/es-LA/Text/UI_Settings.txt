@@ -1,0 +1,37 @@
+﻿r:"^Current input device: \\n ([\s\S]*)$"=Dispositivo de entrada actual: \n $1
+ENABLED=HABILITADO
+DISABLED=DESHABILITADO
+MODE: Push to talk=Modo: Pulsar para hablar
+MODE: Voice activation=Modo: Activación por voz
+Master volume:=Volumen principal:
+
+DISPLAY=VIDEO
+Frame rate cap:=Límite de velocidad de cuadros:
+Use monitor (V-Sync)=Sinc. Vertical
+Uncapped=Sin límite
+r:"^(\d|\d{2}|\d{3}) FPS$"=$1 FPS
+
+Display mode:=Modo de pantalla:
+Fullscreen=Pantalla completa
+Windowed fullscreen=Ventana completa
+Maximized window=Ventana maximizada
+Window=Modo Ventana
+Gamma/Brightness:=Gamma/Brillo:
+
+CONTROLS=CONTROLES
+Look sensitivity:=Sensibilidad del ratón:
+Push to talk:=Pulsar para hablar:
+Invert Y-Axis=Invertir eje Y
+
+> Reset all to default=> Restablecer valores predeterminados.
+> Confirm changes=> Aplicar cambios
+BACK=> Atrás
+> Change keybinds=> Teclas de acceso rápido.
+REMAP CONTROLS=CAMBIAR TECLAS
+
+ACCESSIBILITY=ACCESIBILIDAD
+Arachnophobia Mode=Modo Aracnofobia
+
+WAITING FOR KEY=ELIJA LA TECLA
+
+> Set to defaults=> Valores predeterminados

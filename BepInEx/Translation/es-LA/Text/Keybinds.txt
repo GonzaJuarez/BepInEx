@@ -1,0 +1,98 @@
+//KeybindsInfo / Default
+
+Push to talk=Pulsar para hablar
+Walk forward=Avanzar
+Walk back=Retroceder
+Walk left=Mover a la Izquierda
+Walk right=Mover a la Derecha
+Jump=Saltar
+Run=Correr
+Crouch=Agacharse
+Interact=Interactuar
+Ping scan=Escanear ping
+Item primary use=Usar objeto primario
+Item Secondary use=Usar objeto secundario
+Item Tertiary use=Usar objeto terciario
+Item drop=Soltar objeto
+Item switch left=Cambiar objeto (izquierda)
+Item switch right=Cambiar objeto (derecha)
+Item inspect=Inspeccionar objeto
+Replace furniture=Reemplazar mueble
+Turn furniture=Girar mueble
+Store furniture=Guardar mueble
+Dance=Bailar
+Point=Señalar
+Enable chat=Abrir chat
+Submit chat=Enviar chat
+
+T=T
+W=W
+S=S
+A=A
+D=D
+Space=Barra Espaciadora
+E=E
+Right Button=Boton Derecho
+Left Button=Boton Izquierdo
+Q=Q
+E=E
+G=G
+Scroll/Down=Rueda Arriba
+Scroll/Up=Rueda Abajo
+Z=Z
+B=B
+R=R
+X=X
+
+REBIND CONTROLLERS=REBINDEAR CONTROL
+
+Move forward=Moverse adelante
+Move back=Moverse atrás
+Move left=Moverse a la izquierda
+Move right=Moverse a la derecha
+Item secondary use=Usa Objeto secondario
+Item tertiary use=Usa Objeto terciario
+
+Left Stick/Up=Stick Izquierdo Arriba
+Left Stick/Down=Stick Izquierdo Abajo
+Left Stick/Left=Stick Izquierdo Izquierda
+Left Stick/Right=Stick Izquierdo Derecha
+Button South=Botón Sur
+Left Shoulder=Hombro Izquierdo (LB)
+Left Trigger=Gatillo izquierdo (LT)
+Right Stick Press=Pulsar Stick Derecho
+Button West=Botón Oeste
+Right Shoulder=Hombro Derecho (RB)
+Right Trigger=Gatillo derecho (RT)
+D-Pad/Down=D-Pad Abajo
+D-Pad/Up=D-Pad Arriba
+Button East=Botón Este
+D-Pad/Right=D-Pad Derecha
+D-Pad/Left=D-Pad Izquierda
+
+//Keybind
+
+C=C
+F=F
+H=H
+I=I
+J=J
+K=K
+L=L
+M=M
+N=N
+O=O
+P=P
+U=U
+V=V
+Y=Y
+0=0
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9

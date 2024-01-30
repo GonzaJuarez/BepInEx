@@ -1,0 +1,89 @@
+﻿r:"^v([0-9]+)$"=v$1
+
+SET-UP=CONFIGURAR
+
+> CONFIRM=> CONFIRMAR
+
+This experience has been designed for in-game voice chat,\nso I recommend giving it a try.=Esta experiencia ha sido diseñada para el chat de voz dentro del juego,\nasí que te recomendamos probarlo.
+
+LAUNCH MODE=LANZAR EN MODO
+> Online=> Online
+> LAN=> LAN
+  Online=  Online
+  LAN=  LAN
+  (Recommended)=(Recomendado)
+
+v45=v45ES
+v47=v47ES
+
+Version 45 is out!=¡Version45 ya disponible!
+Welcome! Version 45 is out now.\nOthers must update their game to play\nwith you on this version.\n\n\nGood luck!=¡Bienvenido! ¡la Version 45 ya ha salido!\nLos demas deberan de actualizar su juego para jugar\ncontigo en esta version.\n\n\n¡Buena suerte!
+[MODS DETECTED]=[MODS DETECTADOS]
+[ Continue ]=[Continuar]
+
+> Host=> Crear tripulacion
+> Join a crew=> Unirse a tripulación
+> Settings=> Configuraciones
+> Credits=> Créditos
+Credits=Créditos
+> Quit=> Salir
+
+Allow remote connections=Permitir conexiones remotas.
+Local-only=Solo local.
+
+Would you like to leave the game?=¿Estas seguro de salir del juego?
+> Confirm=> Confirmar
+> Cancel=> Cancelar
+
+Server name:=Nombre del servidor:
+Public=PÚBLICO
+PUBLIC means your game will be visible on the server list for all to see.=PÚBLICO Significa que tu juego será visible en la lista de servidores para que todos lo vean.
+Friends-only=PRIVADO
+PRIVATE means you must send invites through Steam for players to join.=PRIVADO significa que debes enviar invitaciones a través de Steam para que los jugadores se unan.
+[ Confirm ]=[Confirmar]
+[ Back ]=[ Atrás ]
+
+Save File=Guardar archivo.
+r:"^File ([0-9]+)$"=Archivo $1
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\Dias: $2
+
+Servers=Salas
+[ Refresh ]=[Refrescar]
+Sort: near=Filtrar: Cerca.
+Sort: far=Filtrar: Lejos.
+Sort: worldwide=Filtrar: Todo Mundo
+Sort: Friends=Filtrar: Amigos
+Sort: Similar rank=Filtrar: Rango similar
+Sort: Top 20=Filtrar: Top 20
+Join=Unirse
+With challenge moon=Con Luna de Desafío
+Enter server tag...=Ingresa tag del servidor...
+Loading server list...=Cargando lista de servidores...
+No available servers to join.=No hay servidores disponibles para unirse.
+Challenge Moon Tuo-3 Results=Resultados: Luna de Desafío Tuo-3
+Challenge Moon Uebec-33 Results=Resultados: Luna de Desafío Uebec-33
+Challenge Moon Kecu-75 Results=Resultados: Luna de Desafío Kecu-75
+[ Remove my score ]=[Eliminar mi puntuación]
+[ Play again ]=[Jugar otra vez]
+Deceased=Fallecido
+(Removed score)=(Punt. removida)
+(You cannot resubmit your score.)=(No puedes resubir tu puntuación.)
+> Back to menu=> Volver al menú
+
+r:"^Do you want to delete File ([0-9])\?$"=¿Quieres borrar el archivo $1?
+Delete=Eliminar
+Go back=Regresar
+Back=Atrás
+
+This is the weekly challenge moon. You have one day and one attempt to make as much profit as possible.=Esta es la luna de desafío semanal. Tienes un día y un intento para obtener la mayor ganancia posible.
+
+> Back=> Atrás
+DISCARD=> DESCARTAR
+Discard changes=Descartar cambios
+Unconfirmed changes!=¡Cambios no confirmados!
+Discard=Descartar
+Confirm=Confirmar
+Confirm changes?=¿Confirmar cambios?
+
+> Resume=> Continuar
+> Invite friends=> Invitar amigos

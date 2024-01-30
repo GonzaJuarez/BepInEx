@@ -1,0 +1,48 @@
+﻿sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=ORBITANDO：$1\nPOBLACIÓN：$2\nCONDICIONES：$3\nFAUNA：$4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=ORBITANDO：$1\nPOBLACIÓN：$2\nCONDICIONES：$3\nFAUNA：$4\nCLIMA：$5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=POBLACIÓN：$1\nCONDICIONES：$2\nFAUNA：$3\n$4
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=POBLACIÓN：$1\nCONDICIONES：$2\nFAUNA：$3
+sr:"^CELESTIAL BODY: ([\s\S]+)$"=CUERPO CELESTIAL: $1
+
+Eclipsed=Eclipsado
+Flooded=Inundado
+Foggy=Con niebla
+Stormy=Tormentoso
+Rainy=Lluvioso
+
+8 Titan=8 Titan
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Congelado y rocoso. Esta luna fue minada por recursos. Es fácil perderse aquí.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Se rumorea que entidades peligrosas han tomado residencia en la vasta red de túneles.\n
+
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+Jagged and weathered terrain. =Terreno escarpado y desgastado.
+Ecosystem supports territorial behaviour.=El ecosistema respalda comportamientos territoriales.
+Ecosystem supports territorial behaviour.\n=El ecosistema respalda comportamientos territoriales.\n
+
+31 March=31 March
+
+41 Experimentation=41 Experimentation
+Abandoned=Abandonado
+Arid. Thick haze, worsened by industrial artifacts.=Árido.\nEspeso velo, empeorado por artefactos industriales.
+Dominated by a few species.\n=Dominado por unas pocas especies.\n
+
+56 Vow=56 Vow
+Humid. Rough terrain. Teeming with plant-life.=Húmedo. Terreno abrupto. Repleto de vegetación.
+A competitive ecosystem supports aggressive lifeforms.\n=El ecosistema competitivo respalda formas de vida agresivas.\n
+
+
+61 March=61 March
+Diverse=Diverso
+Expansive. Constant rain.=Expansivo. Lluvia constante.
+
+71 Gordion=71 Gordion
+Unknown=Desconocido
+No land masses. Continual storms.=Sin masas de tierra.\nTormentas continuas.
+Unknown\nWhere the Company resides.\n=Desconocido\nDonde reside la Compañía.\n
+
+7 Dine=7 Dine
+85 Rend=85 Rend
+None=Ninguno
+Frozen, rocky. Its planet orbits a white dwarf star.=Congelado y rocoso. Su planeta orbita una estrella enana blanca.
+Unlikely for complex life to exist.=Poco probable que exista vida compleja.

@@ -1,0 +1,239 @@
+﻿Item collected!=¡Ítem recolectado!
+
+Big bolt=Perno grande
+Drop Big bolt : [G]=Soltar Perno grande: : [G]
+Big bolt collected!=¡Perno grande recolectado!
+
+Drop Brass bell : [G]=Soltar Campana de latón: : [G]
+Drop Bell : [G]=Soltar Campana de latón: : [G]
+Brass bell=Campana de latón
+Brass bell collected!=¡Campana de latón recolectado!:
+
+Brush=Cepillo
+Drop Brush : [G]=Soltar Cepillo : [G]
+Brush collected!=¡Cepillo recolectado!
+
+Drop Sticky note : [G]=Soltar Nota adhesiva : [G]
+
+Drop Body : [G]=Soltar Cuerpo : [G]
+
+Candy=Caramelo
+Drop Candy : [G]=Soltar Caramelo : [G]
+Candy collected!=¡Caramelo recolectado!
+
+Clown horn=Cuerno de payaso
+Drop Clown horn : [G]=Soltar Cuerno de payaso : [G]
+Use horn : [LMB]=Usar Cuerno de payaso : [LMB]
+Clown horn collected!=¡Cuerno de payaso recolectado!
+
+Coffee mug=Taza de café
+Drop Coffee mug : [G]=Soltar Taza de café : [G] 
+Coffee mug collected!=¡Taza de café recolectada!
+
+Cookie mold pan=Molde para galletas
+Drop Cookie mold pan : [G]=Soltar Molde para galletas: [G]
+Cookie mold pan collected!=¡Molde para galletas recolectado!
+
+Dust pan=Recogedor
+Drop Dust pan : [G]=Soltar Recogedor : [G]
+Dust pan collected!=¡Recogedor recolectado!
+
+Egg beater=Batidor de huevos
+Egg beater collected!=¡Batidor de huevos recolectado!
+Drop Egg beater : [G]=Soltar Batidor de huevos: [G]
+
+Golden cup=Copa dorada
+Drop Golden cup : [G]=Soltar Copa dorada : [G]
+Golden cup collected!=¡Copa dorada recolectada!
+
+Hair brush=Cepillo para el cabello
+Drop Hair brush : [G]=Soltar Cepillo para el cabello: [G]
+Hair brush collected!=¡Cepillo para el cabello recolectado!
+
+Jar of pickles=Frasco de pepinillos
+Drop Jar of pickles : [G]=Soltar Frasco de pepinillos: [G]
+Jar of pickles collected!=¡Frasco de pepinillos recolectado!
+
+Key=Llave
+Use key : [LMB]=Usar Llave : [LMB]
+Drop Key : [G]=Soltar Llave : [G]
+
+Laser pointer=Puntero láser
+Laser pointer collected!=¡Puntero láser recolectado!
+Drop Laser pointer : [G]=Soltar Puntero láser : [G]
+Toggle laser : [LMB]=Encender/Apagar laser : [LMB]
+
+Magnifying glass=Lupa Magnifica
+Magnifying glass collected!=¡Lupa Magnifica recolectada!
+Drop Magnifying glass : [G]=Soltar Lupa Magnifica : [G]
+
+Old phone=Teléfono antiguo
+Old phone collected!=¡Teléfono antiguo recolectado!
+Drop Old phone : [G]=Soltar Teléfono antiguo : [G]
+
+Perfume bottle=Frasco de perfume
+Drop Perfume bottle : [G]=Soltar Frasco de perfume: [G]
+Perfume bottle collected!=¡Frasco de perfume recolectado!
+
+Pill bottle=Frasco de pastillas
+Drop Pill bottle : [G]=Soltar Frasco de pastillas: [G]
+Pill bottle collected!=¡Frasco de pastillas recolectado!
+
+Plastic fish=Pez de plástico
+Plastic fish collected!=¡Pez de plástico recolectado!
+Drop Plastic fish : [G]=Soltar Pez de plástico : [G]
+
+Red soda=Refresco Cola
+Drop Red soda : [G]=Soltar Refresco Cola : [G]
+Red soda collected!=¡Refresco Cola recolectado!
+
+Ring bell : [E]=Usar Campanilla : [E]
+
+Toy robot=Juguete robot
+Drop Toy robot : [G]=Soltar Juguete robot : [G]
+Toy robot collected!=¡Juguete robot recolectado!
+
+Steering wheel=Volante
+Steering wheel collected!=¡Volante recolectado!
+Drop Steering wheel : [G]=Soltar Volante : [G]
+
+Stop sign=Señal de "ALTO"
+Drop Stop sign : [G]=Soltar Señal de "ALTO" : [G]
+Stop sign collected!=¡Señal de ALTO recolectado!
+
+Tattered metal sheet=Chapa de metal desgastada
+Drop Tattered metal sheet : [G]=Soltar Chapa de metal desgastada: [G]
+Tattered metal sheet collected!=¡Chapa de metal desgastada recolectado!
+
+Metal sheet=Chapa de metal
+Drop Metal sheet : [G]=Soltar Chapa de metal : [G]
+Metal sheet collected!=¡Chapa de metal recolectado!
+
+Tea Kettle=Hervidor de té
+Drop Tea kettle : [G]=Soltar Hervidor de té : [G]
+Tea kettle collected!=¡Hervidor de té recolectado!
+
+Teeth=Diente
+Teeth collected!=¡Dientes recolectado!
+Drop Teeth : [G]=Soltar Dientes : [G]
+
+Toothpaste=Pasta de dientes
+Toothpaste collected!=¡Pasta de dientes recolectado!
+Drop Toothpaste : [G]=Soltar Pasta de dientes : [G]
+
+Toy cube=Cubo de juguete
+Toy cube collected!=¡Cubo de juguete recolectado!
+Drop Toy cube : [G]=Soltar Cubo de juguete : [G]
+
+Yield sign=Señal de "Ceda el paso"
+Drop Yield sign : [G]=Soltar Señal de "Ceda el paso": [G]
+Yield sign collected!=¡Señal de "Ceda el paso" recolectado!
+
+Wedding ring=Anillo de bodas
+Drop Wedding ring : [G]=Soltar Anillo de bodas : [G]
+Wedding ring collected!=¡Anillo de bodas recolectado!
+
+Apparatice=Aparato
+Drop Apparatus : [G]=Soltar Aparato : [G]
+Apparatus collected!=¡Aparato recolectado!
+
+Bee hive=Colmena de abejas
+Drop Bee hive : [G]=Soltar Colmena de abejas : [G]
+Drop Hive : [G]=Soltar Colmena : [G]
+Bee hive collected!=¡Colmena de abejas recolectada!
+Hive collected!=¡Colmena recolectada!
+
+Drop Mug : [G]=Soltar Taza: [G]
+Mug collected!=¡Taza recolectado!
+
+Bottles=Botellas
+Drop Bottles : [G]=Soltar Botellas : [G]
+Bottles collected!=¡Botellas recolectadas!
+
+Cash register=Caja registradora
+Use cash register : [LMB]=Usar Caja registradora: [LMB]
+Drop Cash register : [G]=Soltar Caja registradora: [G]
+Cash register collected!=¡Caja registradora recolectada!
+
+Drop Chemical jug : [G]=Soltar Garrafa química : [G]
+Chemical jug=Garrafa química
+Chemical jug collected!=¡Garrafa química recolectada!
+
+Ring=Anillo
+Drop Ring : [G]=Soltar Anillo : [G]
+Ring collected!=¡Anillo recolectado!
+
+Wedding ring=Anillo de bodas
+Drop Wedding ring : [G]=Soltar Anillo de bodas : [G]
+Wedding ring collected!=¡Anillo de bodas recolectado!
+
+Drop Rubber Ducky : [G]=Soltar Patito de hule : [G]
+Rubber Ducky collected!=¡Patito de hule recolectado!
+
+Fancy lamp=Lámpara elegante
+Drop Fancy lamp : [G]=Soltar Lámpara elegante : [G]
+Fancy lamp collected!=¡Lámpara elegante recolectado!
+
+Large axle=Eje grande
+Large axle collected!=¡Eje grande recolectado!
+Drop Large axle : [G]=Soltar Eje grande : [G]
+
+Painting=Pintura
+Drop Painting : [G]=Soltar Pintura : [G]
+Painting collected!=¡Pintura recolectada!
+
+V-type engine=Motor Tipo-V
+Drop V-type engine : [G]=Soltar Motor Tipo-V : [G]
+V-type engine collected!=¡Motor Tipo-V recolectado!
+
+Airhorn=Bocina de aire
+Use airhorn : [LMB]=Usar Bocina de aire : [LMB]
+Drop Airhorn : [G]=Soltar Bocina de aire : [G]
+Airhorn collected!=¡Bocina de aire recolectado!
+
+Gold Bar=Barra de oro
+Drop Gold bar : [G]=Soltar Barra de oro : [G]
+Gold bar collected!=¡Barra de oro recolectado!
+
+Drop Pro-flashlight : [G]=Soltar linterna PRO : [G]
+Drop Walkie-talkie : [G]=Soltar Walkie-talkie : [G]
+
+Remote collected!=¡Control remoto recolectado!
+Remote=Control remoto
+Drop Remote=Soltar Control remoto : [G]
+
+Use Remote : [LMB]=Usar Control remoto : [LMB]
+Use key: [ LMB ]=Usar Llave : [LMB]
+Swing sign : [LMB]=Golpear con letrero : [LMB]
+
+Magic 7 ball=Bola Magica 7
+Drop Magic 7 ball=Soltar Bola Magica 7
+Magic 7 ball collected!=¡Bola Magica 7 recolectado!
+
+Gift=Regalo
+Drop Gift : [G]=Soltar Regalo : [G]
+Open gift : [LMB]=Abrir Regalo : [LMB]
+Gift collected!=¡Regalo recolectado!
+
+Flask=Frasco
+Drop Flask : [G]=Soltar Frasco : [G]
+Flask collected!=¡Frasco recolectado!
+
+Homemade Flashbang=Aturdidora Casera
+Drop Homemade flashbang : [G]=Soltar Aturdidora Casera : [G]
+Use DIY-Flashbang : [LMB]=Usar Aturdidora-HEC : [LMB]
+Pull pin: [LMB]=Soltar del seguro : [LMB]
+
+Double-barrel=Escopeta Doble Cañon
+Drop Shotgun : [G]=Soltar Escopeta : [G]
+Drop Ammo : [G]=Soltar Municion : [G]
+Fire : [LMB]=Disparar : [LMB]
+Reload : [E]=Recargar : [E]
+Turn safety on: [Q]=Poner el seguro : [Q]
+Turn safety off: [Q]=Quitar el seguro : [Q]
+Shotgun collected!=¡Escopeta recolectada!
+
+Comedy=Comedia
+Tragedy=Tragedia
+Drop Comedy : [G]=Soltar Mascara de Comedia: [G]
+Wear mask : [LMB]=Ponerse la mascara : [LMB]
